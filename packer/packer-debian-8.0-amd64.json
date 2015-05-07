@@ -200,10 +200,6 @@
       ],
       "type": "shell",
       "environment_vars": [ "PACKER_DEBIAN_VERSION={{user `packer-debian_version`}}" ]
-    },
-    {
-      "type": "ansible-local",
-      "playbook_file": "docker.yaml"
     }
   ]
 }
