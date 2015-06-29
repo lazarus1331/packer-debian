@@ -22,7 +22,6 @@
       "disk_size": 7960,
       "headless" : "true",
       "accelerator": "kvm",
-      "hard_drive_interface": "sata",
       "http_directory": "http",
       "iso_checksum": "5f611b40b0803f8be1180da561cfbc159e381599",
       "iso_checksum_type": "sha1",
